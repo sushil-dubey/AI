@@ -5,6 +5,7 @@ else:
     thursty = input("are you thursty?")
 	if thursty="yes":
 		print("Drink water")
+		print("Drink soda")
 	elese:
 		print("DO your homework")
 	
